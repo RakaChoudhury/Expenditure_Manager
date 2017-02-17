@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">expenditure_manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_income">IncomeActivity</string>
+    <string name="title_activity_expenditure">ExpenditureActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_inc">IncActivity</string>
+    <string name="title_activity_status">StatusActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="title_activity_show_exp">ShowExpActivity</string>
+    <string name="title_activity_add_expenditure">AddExpenditureActivity</string>
+    <string name="title_activity_exp">ExpActivity</string>
+
+</resources>
